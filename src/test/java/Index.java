@@ -9,6 +9,8 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+
+
 /**
  * Servlet implementation class Index
  */
@@ -19,6 +21,7 @@ public class Index extends HttpServlet {
     /**
      * @see HttpServlet#HttpServlet()
      */
+	
     public Index() {
         super();
         // TODO Auto-generated constructor stub
